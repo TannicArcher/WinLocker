@@ -1,1 +1,2 @@
 # WinLocker
+Password 123
